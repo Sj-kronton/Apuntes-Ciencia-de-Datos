@@ -73,12 +73,12 @@ def convertir_csv_a_json_zscore(ruta_csv, ruta_json):
     edad_z = (
         (edad - media_edad)
         / desviacion_edad
-    )
+    ) * 2
 
     colesterol_z = (
         (colesterol - media_colesterol)
         / desviacion_colesterol
-    )
+    ) * 2
 
     # --------------------------------------------------------
     # Crear estructura compatible con Playground
