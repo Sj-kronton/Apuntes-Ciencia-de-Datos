@@ -1,2 +1,4 @@
 # Apuntes-Ciencia-de-Datos
-Los pauntes para la evaluación del curso de competencias
+Los apuntes para la evaluación del curso de competencias
+
+
