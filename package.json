@@ -1,0 +1,28 @@
+{
+  "name": "apuntes-ciencia-de-datos",
+  "version": "1.0.0",
+  "description": "Los pauntes para la evaluación del curso de competencias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adiacla/Apuntes-Ciencia-de-Datos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adiacla/Apuntes-Ciencia-de-Datos/issues"
+  },
+  "homepage": "https://github.com/adiacla/Apuntes-Ciencia-de-Datos#readme",
+  "dependencies": {
+    "azure-iot-device": "^1.18.4",
+    "azure-iot-device-amqp": "^1.14.4",
+    "azure-iot-provisioning-device": "^1.9.1",
+    "azure-iot-provisioning-device-mqtt": "^1.8.1",
+    "azure-iot-security-symmetric-key": "^1.8.3"
+  }
+}
