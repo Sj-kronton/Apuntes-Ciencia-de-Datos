@@ -2,6 +2,8 @@
 Los apuntes para la evaluación del curso de competencias
 Repositorio con apuntes, ejercicios y proyectos del curso.
 
+## Juan alejandro sierra rincon - U00178520
+
 ## Estructura
 
 | Carpeta / Archivo | Descripción |
