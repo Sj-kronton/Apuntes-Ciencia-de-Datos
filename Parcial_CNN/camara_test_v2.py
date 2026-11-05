@@ -68,7 +68,7 @@ def classify_roi(roi):
 
 print("Iniciando cámara...")
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 
 if not cap.isOpened():
     print("ERROR: No se pudo abrir la cámara.")

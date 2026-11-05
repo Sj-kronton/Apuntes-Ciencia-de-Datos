@@ -12,7 +12,7 @@ import winsound
 # CONFIGURACIÓN GENERAL
 # ==========================================================
 
-MODEL_PATH = "best_egg_model.keras"
+MODEL_PATH = "C:\\Users\\juana\\Apuntes-Ciencia-de-Datos\\Parcial_CNN\\best_egg_model.keras"
 
 SERIAL_PORT = "COM3"
 BAUDRATE = 9600
@@ -369,7 +369,7 @@ def human_intervention():
 # CÁMARA
 # ==========================================================
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 
 if not cap.isOpened():
 
